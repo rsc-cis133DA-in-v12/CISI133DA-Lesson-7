@@ -14,8 +14,8 @@ nav ul li a {
     display: block;
     color: white;
     height: fit-content;
-    font: weight 500px;
     font-size: larger;
+    font-weight: 500;
     text-decoration: none;
     padding: 35px;
 }
