@@ -13,8 +13,11 @@ nav ul li {
 nav ul li a {
     display: block;
     color: white;
+    height: fit-content;
+    font: weight 500px;
+    font-size: larger;
     text-decoration: none;
-    padding: 10px;
+    padding: 35px;
 }
 
 nav ul li a:hover {
